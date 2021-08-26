@@ -1,2 +1,2 @@
-let nombre = Perón
+let nombre = 'Juan Domingo Peron'
 

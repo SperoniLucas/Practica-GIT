@@ -1,1 +1,1 @@
-let objeto = hehe
+let objeto = 'hehe'
